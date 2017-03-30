@@ -16,6 +16,9 @@ monospace-font-name='Monospace 11'
 titlebar-uses-system-font=false
 button-layout='appmenu:minimize,maximize,close'
 
+[org.gnome.desktop.peripherals.touchpad]
+tap-to-click=true
+
 [org.gnome.shell]
 always-show-log-out=true
 favorite-apps=['pamac-manager.desktop', 'firefox.desktop', 'empathy.desktop', 'org.gnome.Nautilus.desktop', 'gnome-terminal.desktop', 'org.gnome.gedit.desktop', 'hexchat.desktop', 'org.gnome.Screenshot.desktop', 'ca.desrt.dconf-editor.desktop']
